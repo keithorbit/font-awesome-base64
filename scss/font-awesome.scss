@@ -1,11 +1,7 @@
-/*
- *  Font Awesome 4.2.0 base64 by @keithorbit - http://www.mactale.com/
+/*!
+ *  Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-/*
- *  Serve the Font Awesome 4.2.0 as Data URI. No need to host the files anywhere, just copy and paste this into your CSS instead.
- *  Plus, this reduces http requests, and thus speeds up page load time.
- *  Works in IE8 and better.
-*/
 
 @import "variables";
 @import "mixins";
@@ -15,7 +11,7 @@
 @import "fixed-width";
 @import "list";
 @import "bordered-pulled";
-@import "spinning";
+@import "animated";
 @import "rotated-flipped";
 @import "stacked";
 @import "icons";
