@@ -8,4 +8,11 @@ Font Awesome gives you scalable vector icons that can instantly be customized â€
 <br />http://fortawesome.github.io/Font-Awesome/
 <br />Font Awesome Version 4.4.0
 <br />
+## Getting Started
+
+### Include font-awesome.min on your site.
+
+```html
+<link rel="stylesheet" href="css/font-awesome.min.css">
+```
 <br />E-mail: keithskyey@gmail.com
