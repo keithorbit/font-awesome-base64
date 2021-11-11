@@ -1,6 +1,6 @@
-# Font Awesome 5.12.1 base64
+# Font Awesome 5.15.4 base64
 
-Serve the Font Awesome 5.12.1 as Data URI. No need to host the files anywhere, just copy and paste this into your CSS instead.
+Serve the Font Awesome 5.15.4 as Data URI. No need to host the files anywhere, just copy and paste this into your CSS instead.
 <br />Plus, this reduces http requests, and thus speeds up page load time.
 <br />Works in IE9 and better.
 ## Font Awesome Icons
